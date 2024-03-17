@@ -1,0 +1,11 @@
+[prometheus]
+3.90.68.253
+
+[node_exporter]
+3.90.68.253
+
+[alertmanager]
+3.90.68.253
+
+[grafana]
+3.90.68.253
